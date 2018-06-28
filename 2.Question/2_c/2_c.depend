@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523226598 source:/home/eagle/Desktop/2_c/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

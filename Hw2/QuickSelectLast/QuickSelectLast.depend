@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1524210472 source:/home/eagle/Desktop/CSE/CSE_FULL/Algorithm/Homeworks/Hw2/QuickSelectLast/main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

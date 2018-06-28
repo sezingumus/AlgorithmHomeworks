@@ -1,0 +1,8 @@
+
+About the input files:
+
+All input size are 5000 .
+
+decrease.txt is descending order.
+increase.txt is ascending order .
+mixdata.txt contains random numbers which is between 0 and 5000.

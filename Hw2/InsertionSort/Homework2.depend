@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1523647396 source:/home/eagle/Desktop/CSE/CSE_FULL/Algorithm/Homeworks/Hw2/Homework2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

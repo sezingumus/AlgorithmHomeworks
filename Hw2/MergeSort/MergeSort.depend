@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1524040813 source:/home/eagle/Desktop/CSE/CSE_FULL/Algorithm/Homeworks/Hw2/MergeSort/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+
